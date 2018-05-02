@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sally</string>
+    <string name="animate">Animacion 1</string>
+    <string name="animate1">Animacion 2</string>
+    <string name="animate2">Animacion 3</string>
+    <string name="animate3">Animacion 4</string>
+</resources>

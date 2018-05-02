@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\retrasada\\AnimateJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Carolina Mondragon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\78a4c26a0fd8dd59c440dffffd3ac483\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Carolina Mondragon\\Desktop\\AnimateJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Carolina Mondragon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\78a4c26a0fd8dd59c440dffffd3ac483\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\lenovo\\Documents\\Codigos\\Animacion\\Solutions\\Ch02\\02_02\\AnimateJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\e293b30646733ea6d34656fef5159dbe\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

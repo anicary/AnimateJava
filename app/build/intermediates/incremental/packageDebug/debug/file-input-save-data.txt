@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 02 00:46:16 MDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Carolina Mondragon\\Desktop\\AnimateJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+0.path=classes.dex
+0.set=DEX
+count=1
